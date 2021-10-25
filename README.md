@@ -1,2 +1,2 @@
-# Movie-Player
-Streamlab - A movie player UI
+# Movie-Explore
+Streamlab - A Movie App UI
